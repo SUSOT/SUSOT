@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=random&height=400&section=header&text=안녕하세요%20이찬민입니다&desc=만나서%20반갑습니다&fontSize=60&descSize=30&fontColor=999999&fontAlighY=50&)
+![header](https://capsule-render.vercel.app/api?type=venom&color=random&height=400&section=header&text=안녕하세요%20이찬민입니다&desc=만나서%20반갑습니다&fontSize=60&descSize=30&fontColor=DDDDDD&fontAlighY=50&)
 
 저는<br>
 -게임 개발자를 꿈꾸는 학생입니다<br>
@@ -11,4 +11,6 @@
 이건 저의 랭킹입니다<br><br><br><br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=SUSOT&theme=flat&column=7)](https://github.com/SUSOT/)<br>
 이건 저의 트로피입니다<br><br><br><br>
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)<br>
+사실 이제 
+
