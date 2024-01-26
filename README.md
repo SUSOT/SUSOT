@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=random&height=300&section=header&text=안녕하세요 이찬민입니다%20desc=뉴비 게임개발 지망render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=안녕하세요 이찬민입니다%20desc=뉴비 게임개발 지망render&fontSize=90)
 
 
 
