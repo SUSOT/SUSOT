@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=Hi I'm Chan Min Lee%20desc=welcome!.20%render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=Hi I'm Chan Min Lee%20desc=welcome!.20%render&fontSize=90&fontColor=ffffff&fontAlignY=40)
 
 
 
