@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=random&height=400&section=header&text=SUSOT&desc=gameprogramer&fontSize=90&descSize=40)
+![header](https://capsule-render.vercel.app/api?type=venom&color=random&height=400&section=header&text=SUSOT&desc=gameprogramer&fontSize=90&descSize=40&fontColor=111111)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUSOT&show_icons=true&theme=radical)
