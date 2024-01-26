@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=4e63d6&height=200&section=header&text=안녕하세요!&desc=게임개발자&20지망생&20이찬민입니다.&20World&fontSize=50&animation=fadeIn&fontColor=DDDDDD)
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUSOT&show_icons=true&theme=radical)
