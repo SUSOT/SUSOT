@@ -1,6 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=random&height=400&section=header&text=안녕하세요%20이찬민입니다&desc=만나서%20반갑습니다&fontSize=60&descSize=30&fontColor=999999&fontAlighY=50&)
 
+저는
+-게임 개발자를 꿈꾸는 학생입니다
+-C#을 열심히 공부하고 있습니다
+-SUSOT이라는 이름은 제 유튭 채널 이름입니다
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUSOT&show_icons=true&theme=radical)
-
+이건 저의 STAT입니다 (아직 한게 없네요ㅋㅋ)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=SUSOT)](https://solved.ac/SUSOT)<br/>
+이건 저의 
