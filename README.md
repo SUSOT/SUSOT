@@ -9,6 +9,6 @@
 이건 저의 STAT입니다<br><br><br><br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=SUSOT)](https://solved.ac/SUSOT)<br/>
 이건 저의 랭킹입니다<br><br><br><br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=SUSOT&theme=flat&column=7)](https://github.com/dkssud8150/)<br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=SUSOT&theme=flat&column=7)](https://github.com/SUSOT/)<br>
 이건 저의 트로피입니다<br><br><br><br>
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
