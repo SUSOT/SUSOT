@@ -12,5 +12,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=SUSOT&theme=flat&column=7)](https://github.com/SUSOT/)<br>
 > 이건 저의 트로피입니다<br><br><br><br>
 ![](./profile-3d-contrib/profile-night-rainbow.svg)<br>
-사실 이제 
+여기까지 저의 깃허브 프로필 꾸미기였습니다<br>
+잘 모르지만 최선을 다해서 만들어봤습니다<br>
+#### 이제 쓸 말도 생각이 안나네요
 
