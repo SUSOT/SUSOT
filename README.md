@@ -6,6 +6,7 @@
 -SUSOT이라는 이름은 제 유튭 채널 이름입니다<br><br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUSOT&show_icons=true&theme=radical)<br>
-이건 저의 STAT입니다 (아직 한게 없네요ㅋㅋ)<br><br><br><br>
+이건 저의 STAT입니다<br><br><br><br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=SUSOT)](https://solved.ac/SUSOT)<br/>
-이건 저의 랭킹입니다
+이건 저의 랭킹입니다<br><br><br><br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dkssud8150&theme=tokyonight)](https://git.io/streak-stats)
