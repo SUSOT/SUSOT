@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300§ion=header&text=HI&desc=my name is SUSOT.%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300§ion=header&text=HI&desc=SUSOT.%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40)
 
 
 
