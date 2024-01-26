@@ -6,11 +6,11 @@
 -SUSOT이라는 이름은 제 유튭 채널 이름입니다<br><br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUSOT&show_icons=true&theme=radical)<br>
-이건 저의 STAT입니다<br><br><br><br>
+> 이건 저의 STAT입니다<br><br><br><br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=SUSOT)](https://solved.ac/SUSOT)<br/>
-이건 저의 랭킹입니다<br><br><br><br>
+> 이건 저의 랭킹입니다<br><br><br><br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=SUSOT&theme=flat&column=7)](https://github.com/SUSOT/)<br>
-이건 저의 트로피입니다<br><br><br><br>
+> 이건 저의 트로피입니다<br><br><br><br>
 ![](./profile-3d-contrib/profile-night-rainbow.svg)<br>
 사실 이제 
 
