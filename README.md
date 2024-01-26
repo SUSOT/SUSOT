@@ -9,4 +9,4 @@
 이건 저의 STAT입니다<br><br><br><br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=SUSOT)](https://solved.ac/SUSOT)<br/>
 이건 저의 랭킹입니다<br><br><br><br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?SUSOT=dkssud8150&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/SUSOT=dkssud8150&theme=tokyonight)](https://git.io/streak-stats)
