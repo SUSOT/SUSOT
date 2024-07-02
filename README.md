@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=random&height=400&section=header&text=안녕하세요%20이찬민입니다&desc=만나서%20반갑습니다&fontSize=60&descSize=30&fontColor=000000&fontAlighY=50&)
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=400&section=header&text=안녕하세요%20이찬민입니다&desc=만나서%20반갑습니다&fontSize=60&descSize=30&fontColor=000000&fontAlighY=50&)
 
 # 저를 소개합니다<br>
 > -게임 개발자를 꿈꾸는 학생입니다<br>
