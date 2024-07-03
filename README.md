@@ -5,9 +5,12 @@
 -C#을 열심히 공부하고 있습니다<br>
 -SUSOT이라는 이름은 제 유튭 채널 이름입니다<br><br><br>
 
+<div>
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUSOT&show_icons=true&theme=radical&bg_color=gradiant)<br><br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=SUSOT)](https://solved.ac/SUSOT)<br>
+</div>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SUSOT&theme=flat&column=7)](https://github.com/SUSOT/)<br>
