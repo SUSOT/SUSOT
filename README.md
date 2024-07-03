@@ -7,7 +7,7 @@
 
 <div>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUSOT&show_icons=true&theme=radical&bg_color=gradiant)<br><br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUSOT&show_icons=true&theme=ambient_gradient)<br><br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=SUSOT)](https://solved.ac/SUSOT)<br>
 </div>
