@@ -4,7 +4,7 @@
 > -게임 개발자를 꿈꾸는 학생입니다<br>
 -C#을 열심히 공부하고 있습니다<br>
 -서버를 하고 싶어합니다<br>
--SUSOT이라는 이름은 제 유튜브 채널 이름입니다<br><br><br>
+-SUSOT이라는 이름은 제 유튜브 채널 이름입니다
 
 <img src="https://cdn.discordapp.com/attachments/1200311345204179025/1258067413489160214/SUSOT.png?ex=6686b215&is=66856095&hm=65096602c986a07d5944bdd740ad56355bda83d21d7778c33a90d11f341c873d&"> <br><br>
   
