@@ -6,7 +6,7 @@
 -서버를 하고 싶어합니다<br>
 -SUSOT이라는 이름은 제 유튜브 채널 이름입니다
 
-<img src="https://cdn.discordapp.com/attachments/1200311345204179025/1258067413489160214/SUSOT.png?ex=6686b215&is=66856095&hm=65096602c986a07d5944bdd740ad56355bda83d21d7778c33a90d11f341c873d"> <br><br>
+<img src="https://cdn.discordapp.com/attachments/1200311345204179025/1258067413489160214/SUSOT.png?ex=6686b215&is=66856095&hm=65096602c986a07d5944bdd740ad56355bda83d21d7778c33a90d11f341c873d" width="650" height="400"> <br><br>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUSOT&show_icons=true&theme=ambient_gradient)
 
