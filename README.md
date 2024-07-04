@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=안녕하세요%20이찬민입니다&fontSize=70&fontColor=FFFFFF&)
 
+<div dlign = "center>
 # 저를 소개합니다<br>
 > -게임 개발자를 꿈꾸는 학생입니다<br>
 -C#을 열심히 공부하고 있습니다<br>
@@ -39,4 +40,4 @@
 <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white">
 
 </details>
-
+</div>
