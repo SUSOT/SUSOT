@@ -8,8 +8,6 @@
 -SUSOT이라는 이름은 제 유튜브 채널 이름입니다
 
 <img src="https://cdn.discordapp.com/attachments/1200311345204179025/1258067413489160214/SUSOT.png?ex=6686b215&is=66856095&hm=65096602c986a07d5944bdd740ad56355bda83d21d7778c33a90d11f341c873d" width="200" height="200"> 
-[<img align="left" alt="SOKURI_CODE | YouTube" width="48px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]<br><br>
-[youtube]: https://www.youtube.com/@SUSOT.<br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUSOT&show_icons=true&theme=ambient_gradient)
 
