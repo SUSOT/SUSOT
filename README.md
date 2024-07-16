@@ -39,3 +39,6 @@
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
 </details>
+<br><br>
+![](./profile-3d-contrib/profile-green-animate.svg)
+
