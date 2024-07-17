@@ -1,4 +1,3 @@
-<div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=안녕하세요%20이찬민입니다&fontSize=70&fontColor=FFFFFF&)
 
@@ -7,6 +6,7 @@
 -C#을 열심히 공부하고 있습니다<br>
 -서버를 하고 싶어합니다<br>
 -SUSOT이라는 이름은 제 유튜브 채널 이름입니다
+<div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUSOT&show_icons=true&theme=ambient_gradient)
 
