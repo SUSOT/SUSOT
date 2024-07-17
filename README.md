@@ -16,6 +16,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ichanmin)](https://solved.ac/ichanmin)<br><br><br>
 
+![](./profile-3d-contrib/profile-night-rainbow.svg)<br>
 <details>
 <summary>
  지금 배우고 있는것들
@@ -37,5 +38,4 @@
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
 </details>
-![](./profile-3d-contrib/profile-night-rainbow.svg)<br>
 <br><br>
