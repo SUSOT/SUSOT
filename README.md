@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=안녕하세요%20이찬민입니다&fontSize=70&fontColor=FFFFFF&)
- <div align=center>
 
 # 저를 소개합니다<br>
 > -게임 개발자를 꿈꾸는 학생입니다<br>
@@ -7,6 +6,7 @@
 -서버를 하고 싶어합니다<br>
 -SUSOT이라는 이름은 제 유튜브 채널 이름입니다
 
+ <div align=center>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUSOT&show_icons=true&theme=ambient_gradient)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SUSOT&theme=flat&column=7)](https://github.com/SUSOT/)<br>
