@@ -8,7 +8,7 @@
 -SUSOT이라는 이름은 제 유튜브 채널 이름입니다
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUSOT&show_icons=true&theme=ambient_gradient)<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChanminLee&show_icons=true&theme=ambient_gradient)<br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SUSOT&theme=flat&column=8)](https://github.com/SUSOT/)<br>
 
