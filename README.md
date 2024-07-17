@@ -1,3 +1,5 @@
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=안녕하세요%20이찬민입니다&fontSize=70&fontColor=FFFFFF&)
 
 # 저를 소개합니다<br>
@@ -40,3 +42,4 @@
 
 </details>
 <br><br>
+</div>
