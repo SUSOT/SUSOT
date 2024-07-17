@@ -10,7 +10,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUSOT&show_icons=true&theme=ambient_gradient)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SUSOT&theme=flat&column=7)](https://github.com/SUSOT/)<br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=SUSOT&theme=flat&column=6)](https://github.com/SUSOT/)<br>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SUSOT&layout=compact)<br>
