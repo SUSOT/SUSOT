@@ -18,7 +18,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ichanmin)](https://solved.ac/ichanmin)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=ichanmin&theme=dark)
-[![commitcombo](http://commitcombo.com/theme?user=ChanminLee&theme={theme}&v={version})](https://github.com/devxb/CommitCombo)<br><br><br>
+[![commitcombo](http://commitcombo.com/theme?user=SUSOT&theme={theme}&v={version})](https://github.com/devxb/CommitCombo)<br><br><br>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)<br>
 </div>
