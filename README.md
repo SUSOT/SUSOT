@@ -20,8 +20,8 @@
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=ichanmin&theme=dark)<br><br><br>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)<br>
-<details>
 </div>
+<details>
 <summary>
  
  
