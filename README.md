@@ -15,7 +15,7 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ichanmin)](https://solved.ac/ichanmin)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={ichanmin}&theme=dark)<br><br><br>
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=ichanmin&theme=dark)<br><br><br>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)<br>
 <details>
