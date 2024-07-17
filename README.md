@@ -9,7 +9,9 @@
 <div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUSOT&show_icons=true&theme=ambient_gradient)<br>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=SUSOT&theme=flat&column=8)](https://github.com/SUSOT/)<br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SUSOT&layout=compact)<br>
 
 [![Solved.ac
