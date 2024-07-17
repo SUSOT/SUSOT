@@ -11,8 +11,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SUSOT&theme=flat&column=7)](https://github.com/SUSOT/)<br>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)<br>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SUSOT&layout=compact)<br>
 
 [![Solved.ac
@@ -40,4 +38,4 @@
 
 </details>
 <br><br>
-
+![](./profile-3d-contrib/profile-night-rainbow.svg)<br>
