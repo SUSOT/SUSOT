@@ -10,7 +10,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SUSOT&theme=flat&column=7)](https://github.com/SUSOT/)<br>
 
- <div align=center>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SUSOT&layout=compact)<br>
 
 [![Solved.ac
@@ -40,4 +40,3 @@
 
 </details>
 <br><br>
-</div>
