@@ -13,7 +13,7 @@
 # 백준 정보<br>
 <div align="center">
 
-:new_moon_face:
+:grinning_face:
  
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ichanmin)](https://solved.ac/ichanmin)
