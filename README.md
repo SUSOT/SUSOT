@@ -8,7 +8,7 @@
 -SUSOT이라는 이름은 제 유튜브 채널 이름입니다<br>
 
 # 경력<br>
-
+2024년
 
 # 백준 정보<br>
 <div align="center">
