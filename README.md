@@ -1,6 +1,5 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=안녕하세요%20이찬민입니다&fontSize=70&fontColor=FFFFFF&)
-<div align="center">
 
 # 저를 소개합니다<br>
 > -게임 개발자를 꿈꾸는 학생입니다<br>
@@ -17,6 +16,7 @@
 
 
 # 깃허브 정보<br>
+<div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUSOT&show_icons=true&theme=ambient_gradient)<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=SUSOT&theme=flat&column=8)](https://github.com/SUSOT/)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SUSOT&layout=compact)<br>
