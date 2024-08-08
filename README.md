@@ -28,17 +28,10 @@
 <div align="center">
  
 ![](https://leetcard.jacoblin.cool/SUSOT?ext=heatmap)<br><br><br>
-
-</div>
- 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ichanmin)](https://solved.ac/ichanmin)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=ichanmin&theme=dark)<br><br><br>
 </div>
 
 # 백준 정보<br>
 <div align="center">
-
  
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ichanmin)](https://solved.ac/ichanmin)
