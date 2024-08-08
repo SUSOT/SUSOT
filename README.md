@@ -13,15 +13,6 @@
 #### 🎉1학년 1학기 개인프로젝트 우수작 선정<br>
 #### 🏅1학년 하계 게임잼 5등상 수상
 
-# 백준 정보<br>
-<div align="center">
-
- 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ichanmin)](https://solved.ac/ichanmin)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=ichanmin&theme=dark)<br><br><br>
-</div>
-
 # 깃허브 정보<br>
 <div align="center">
  
@@ -31,6 +22,16 @@
 ![](./profile-3d-contrib/profile-night-rainbow.svg)<br>
 &
 </div>
+
+# 백준 정보<br>
+<div align="center">
+
+ 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ichanmin)](https://solved.ac/ichanmin)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=ichanmin&theme=dark)<br><br><br>
+</div>
+
 
 <br>
 <details>
