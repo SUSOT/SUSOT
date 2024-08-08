@@ -27,7 +27,7 @@
 
 <div align="center">
  
-![](https://leetcard.jacoblin.cool/SUSOT?ext=heatmap&theme=wtf?font=milonga)<br><br><br>
+![](https://leetcard.jacoblin.cool/SUSOT?ext=heatmap?font=milonga?theme=wtf)<br><br><br>
 </div>
 
 # 백준 정보<br>
