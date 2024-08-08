@@ -19,6 +19,8 @@
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 
+# 사용중인 툴<br>
+
 # 🏆경력🏆
 ### 2024년<br>
 #### 🎉1학년 1학기 개인프로젝트 우수작 선정<br>
