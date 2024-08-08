@@ -8,7 +8,7 @@
 -서버를 하고 싶어합니다<br>
 -SUSOT이라는 이름은 제 유튜브 채널 이름입니다<br>
 
-# 공부중인 언어<br>
+# 📚공부중인 언어<br>
 <div align="center">
  
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
@@ -18,7 +18,7 @@
 
 </div>
 
-# 공부중인 툴<br>
+# 🛠공부중인 툴<br>
 <div align="center">
  
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
