@@ -33,7 +33,8 @@
 
 <div align="center">
  
-<figure><embed src="https://wakatime.com/share/@SUSOT/83df974b-46db-4727-a3fd-e5fe54955443.svg"></embed></figure><br><br><br>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@SUSOT/03a8b8c3-0160-450b-a002-5458d3cc0bfa.png" /></a><br><br><br>
+
 </div>
 
 
