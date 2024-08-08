@@ -33,7 +33,7 @@
 
 <div align="center">
  
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SUSOT)](https://github.com/anuraghazra/github-readme-stats)<br><br><br>
+<figure><embed src="https://wakatime.com/share/@SUSOT/83df974b-46db-4727-a3fd-e5fe54955443.svg"></embed></figure><br><br><br>
 </div>
 
 
