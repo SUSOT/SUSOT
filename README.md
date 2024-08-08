@@ -23,16 +23,22 @@
 &
 </div>
 
-# 리트코드 정보<br>
+# 📈리트코드 정보<br>
 
 <div align="center">
  
 ![](https://leetcard.jacoblin.cool/SUSOT?ext=heatmap&theme=unicorn)<br><br><br>
 </div>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SUSOT)](https://github.com/anuraghazra/github-readme-stats)
+# ⏰와카타임 스탯<br>
 
-# 백준 정보<br>
+<div align="center">
+ 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SUSOT)](https://github.com/anuraghazra/github-readme-stats)<br><br><br>
+</div>
+
+
+# 🔑백준 정보<br>
 <div align="center">
  
 [![Solved.ac
