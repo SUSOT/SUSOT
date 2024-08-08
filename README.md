@@ -30,6 +30,8 @@
 ![](https://leetcard.jacoblin.cool/SUSOT?ext=heatmap&theme=unicorn)<br><br><br>
 </div>
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SUSOT)](https://github.com/anuraghazra/github-readme-stats)
+
 # 백준 정보<br>
 <div align="center">
  
