@@ -20,7 +20,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SUSOT&layout=compact&theme=ambient_gradient)<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=SUSOT&theme=juicyfresh&column=8)](https://github.com/SUSOT/)<br>
 ![](./profile-3d-contrib/profile-night-rainbow.svg)<br>
-&
 </div>
 
 # 📈리트코드 정보<br>
