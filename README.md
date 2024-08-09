@@ -42,6 +42,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=SUSOT&theme=juicyfresh&column=8)](https://github.com/SUSOT/)<br>
 ![](./profile-3d-contrib/profile-night-rainbow.svg)<br>
 ![SUSOT github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=SUSOT)
+![image](https://github.com/user-attachments/assets/69123f53-4328-4631-83bd-0cff66fd9d59)
+
 </div>
 
 # 📈리트코드 정보<br>
