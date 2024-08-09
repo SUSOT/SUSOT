@@ -39,7 +39,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUSOT&title_00FF00&text_7CFC00&show_icons=true&bg_color=DEG,2980B9,6DD5FA,FFFFFF&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SUSOT&layout=compact&bg_color=DEG,2980B9,6DD5FA,FFFFFF)<br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=SUSOT&theme=juicyfresh&column=7)](https://github.com/SUSOT/)<br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=SUSOT&theme=juicyfresh&column=8)](https://github.com/SUSOT/)<br>
 ![](./profile-3d-contrib/profile-night-rainbow.svg)<br>
 ![SUSOT github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=SUSOT)
 
