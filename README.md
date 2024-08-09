@@ -49,7 +49,7 @@
 
 <div align="center">
  
-![](https://leetcard.jacoblin.cool/SUSOT?ext=heatmap&theme=unicorn)<br><br><br>
+![](https://leetcard.jacoblin.cool/SUSOT?ext=heatmap&theme=unicorn&bg_color=DEG,2980B9,6DD5FA,FFFFFF)<br><br><br>
 </div>
 
 # ⏰와카타임 스탯<br>
