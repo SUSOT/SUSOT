@@ -37,12 +37,12 @@
 # 🗣깃허브 정보<br>
 <div align="center">
 
- ![SUSOT github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=SUSOT)
- ![SUSOT github-trophies](https://stats.dooboo.io/api/github-trophies?login=SUSOT)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUSOT&show_icons=true&theme=ambient_gradient)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SUSOT&layout=compact&theme=ambient_gradient)<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=SUSOT&theme=juicyfresh&column=8)](https://github.com/SUSOT/)<br>
 ![](./profile-3d-contrib/profile-night-rainbow.svg)<br>
+ ![SUSOT github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=SUSOT)
+ ![SUSOT github-trophies](https://stats.dooboo.io/api/github-trophies?login=SUSOT)
 </div>
 
 # 📈리트코드 정보<br>
