@@ -57,7 +57,7 @@
 </div>
 
 
-# 🔑백준 정보<br>
+# 📈백준 정보<br>
 <div align="center">
  
 [![Solved.ac
