@@ -48,13 +48,6 @@
 
 </div>
 
-# 📈리트코드 정보<br>
-
-<div align="center">
- 
-![](https://leetcard.jacoblin.cool/SUSOT?ext=heatmap&theme=unicorn)<br><br><br>
-</div>
-
 # ⏰와카타임 스탯<br>
 
 <div align="center">
