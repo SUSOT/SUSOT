@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"><br>
 <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white">
 <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white">
-<img src="https://img.shields.io/badge/photon-#004480?style=for-the-badge&logo=unrealengine&logoColor=white">
+<img src="https://img.shields.io/badge/<Photon>-<004480>?style=for-the-badge&logo=<Photon>&logoColor=white">
 
 </div>
 
