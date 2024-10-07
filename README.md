@@ -7,6 +7,11 @@
 -서버를 하고 싶어합니다<br>
 -SUSOT이라는 이름은 제 유튜브 채널 이름입니다<br>
 
+# 티스토리<br>
+<div align="center">
+<img src="https://img.shields.io/badge/Tstory-000000?style=for-the-badge&logo=tstory&logoColor=white">
+</div>
+
 # 📚공부중인 언어<br>
 <div align="center">
  
