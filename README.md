@@ -11,7 +11,8 @@
 <div align="center">
 <img src="https://img.shields.io/badge/Tistory-F24607?style=for-the-badge&logo=tistory&logoColor=white">
  
-[티스토리 링크] <https://susot.tistory.com/>
+[티스토리 링크] (https://susot.tistory.com/)
+
 </div>
 
 # 📚공부중인 언어<br>
