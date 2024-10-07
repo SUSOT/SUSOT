@@ -10,6 +10,7 @@
 # 🎞티스토리<br>
 <div align="center">
 <a href="https://susot.tistory.com/"><img src="https://img.shields.io/badge/Tistory-F24607?style=for-the-badge&logo=tistory&logoColor=white"></a>
+ Tistroy를 누르면 링크가 열려요
 </div>
 
 # 📚공부중인 언어<br>
