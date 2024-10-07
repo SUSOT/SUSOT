@@ -10,7 +10,7 @@
 # 🎞티스토리<br>
 <div align="center">
 <img src="https://img.shields.io/badge/Tistory-F24607?style=for-the-badge&logo=tistory&logoColor=white"><br>
- [링크](https://susot.tistory.com/manage)
+ [링크] (https://namu.wiki/w/%E3%84%B4)
 </div>
 
 # 📚공부중인 언어<br>
