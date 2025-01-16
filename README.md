@@ -51,8 +51,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SUSOT&layout=donut&bg_color=DEG,CC95C0,DBD4B4,7AA1D2&count_private=true)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=SUSOT&theme=juicyfresh&column=8)](https://github.com/SUSOT&count_private=true)<br>
 ![](./profile-3d-contrib/profile-gitblock.svg)
-![](./profile-3d-contrib/profile-night-green.svg)
-![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ![SUSOT github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=SUSOT)
 
