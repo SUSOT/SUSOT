@@ -55,9 +55,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=SUSOT&theme=juicyfresh&column=8)](https://github.com/SUSOT&count_private=true)<br>
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
-![SUSOT github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=SUSOT)
-
-![SUSOT github-trophies](https://stats.dooboo.io/api/github-trophies?login=SUSOT)<br>
+<br>
 
 </div>
 
