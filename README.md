@@ -55,6 +55,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=SUSOT&theme=juicyfresh&column=8)](https://github.com/SUSOT&count_private=true)<br>
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
+![Programmers Badge](https://raw.githubusercontent.com/SUSOT/Programmers_Badge_Generator/main/result/result.svg)
+
 <br>
 
 </div>
