@@ -55,7 +55,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=SUSOT&theme=juicyfresh&column=8)](https://github.com/SUSOT&count_private=true)<br>
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
-![Programmers Badge](https://raw.githubusercontent.com/SUSOT/Programmers_Badge_Generator/main/result/result.svg)
 
 <br>
 
@@ -67,4 +66,5 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ichanmin)](https://solved.ac/ichanmin)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=ichanmin&theme=dark)<br><br><br>
+![Programmers Badge](https://raw.githubusercontent.com/SUSOT/Programmers_Badge_Generator/main/result/result.svg)
 </div>
