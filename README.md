@@ -54,12 +54,11 @@
 # 🗣깃허브 정보<br>
 <div align="center">
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=SUSOT&theme=sunset-gradient)](https://git.io/streak-stats)<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUSOT&title_00FF00&text_7CFC00&show_icons=true&bg_color=DEG,C9FFBF,FFAFBD&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SUSOT&layout=donut&bg_color=DEG,CC95C0,DBD4B4,7AA1D2&count_private=true)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=SUSOT&theme=juicyfresh&column=8)](https://github.com/SUSOT&count_private=true)<br>
 ![](./profile-3d-contrib/profile-gitblock.svg)
-[![GitHub Streak](https://streak-stats.demolab.com?user=SUSOT&theme=sunset-gradient)](https://git.io/streak-stats)<br>
 
 
 <br>
