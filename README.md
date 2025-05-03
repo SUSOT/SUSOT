@@ -29,7 +29,6 @@
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"><br>
 <img src="https://img.shields.io/badge/Rider-E63737?style=for-the-badge&logo=rider&logoColor=white">
 
-
 </div>
 
 # 🏆경력🏆
