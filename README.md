@@ -59,16 +59,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SUSOT&show_icons=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&icon_color=8A2BE2&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUSOT&layout=donut&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&hide_border=true&count_private=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SUSOT&bg_color=0D1117&color=00E5FF&line=8A2BE2&point=00E5FF&area=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SUSOT&theme=juicyfresh&column=8" />
 </p>
 
 ---
