@@ -1,2 +1,1 @@
-### 🔗 Portfolio
-[https://Susot_github](https://github.com/SUSOT/Susot_github)
+https://susot.github.io/Susot_github/
