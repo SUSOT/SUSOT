@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:0F766E&height=240&section=header&text=안녕하세요%20이찬민입니다&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B2A33,100:6B4E3D&height=240&section=header&text=안녕하세요%20이찬민입니다&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=600&color=93C5FD&center=true&vCenter=true&width=760&lines=Unity+Client+Developer;C%23+%2F+Game+Dev+Student;Projects+%26+Problem+Solving" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=600&color=CDB8A6&center=true&vCenter=true&width=760&lines=Unity+Client+Developer;C%23+%2F+Game+Dev+Student;Projects+%26+Problem+Solving" />
 </p>
 
 <p align="center">
@@ -14,12 +14,12 @@
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
   </a>
   <a href="https://solved.ac/ichanmin">
-    <img src="https://img.shields.io/badge/Solved.ac-0D1117?style=for-the-badge&logo=leetcode&logoColor=93C5FD" />
+    <img src="https://img.shields.io/badge/Solved.ac-0D1117?style=for-the-badge&logo=leetcode&logoColor=CDB8A6" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,100:0F766E&height=2&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2B2A33,100:6B4E3D&height=2&section=footer" />
 </p>
 
 ## 👋 About
@@ -55,20 +55,20 @@
 
 ## 📈 GitHub
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SUSOT&theme=github-dark-blue&hide_border=true&background=0D1117" />
+  <img src="https://streak-stats.demolab.com?user=SUSOT&theme=github-dark&hide_border=true&background=0D1117" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SUSOT&show_icons=true&bg_color=0D1117&title_color=93C5FD&text_color=C9D1D9&icon_color=34D399&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUSOT&layout=donut&bg_color=0D1117&title_color=93C5FD&text_color=C9D1D9&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SUSOT&show_icons=true&bg_color=0D1117&title_color=CDB8A6&text_color=C9D1D9&icon_color=A67C52&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUSOT&layout=donut&bg_color=0D1117&title_color=CDB8A6&text_color=C9D1D9&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SUSOT&bg_color=0D1117&color=93C5FD&line=34D399&point=93C5FD&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SUSOT&bg_color=0D1117&color=CDB8A6&line=A67C52&point=CDB8A6&area=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SUSOT&theme=nord&column=8&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SUSOT&theme=onedark&column=8&no-frame=true" />
 </p>
 
 ---
@@ -82,7 +82,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,100:0F766E&height=2&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2B2A33,100:6B4E3D&height=2&section=footer" />
 </p>
 
 <p align="center">
