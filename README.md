@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=600&color=00E5FF&center=true&vCenter=true&width=700&lines=Unity+Client+Developer;C%23+%2F+Game+Dev+Student;Problem+Solving+%26+Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=600&color=00E5FF&center=true&vCenter=true&width=760&lines=Unity+Client+Developer;C%23+%2F+Game+Dev+Student;Projects+%26+Problem+Solving" />
 </p>
 
 <p align="center">
@@ -18,18 +18,20 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00E5FF&height=2&section=footer" />
+</p>
 
 ## 👋 About
 - 게임 개발자를 꿈꾸는 학생입니다.
-- Unity(C#) 중심으로 프로젝트를 만들고, 알고리즘/CS도 같이 챙기고 있어요.
+- Unity(C#) 중심으로 프로젝트를 만들고, 알고리즘/CS도 함께 공부하고 있습니다.
 - **SUSOT**은 제 유튜브 채널/활동명입니다.
 
 ---
 
 ## 🧩 Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,cpp,js,html,css,nodejs,git,github,vscode,visualstudio,rider,unreal&perline=7" />
+  <img src="https://skillicons.dev/icons?i=unity,cs,cpp,git,github,visualstudio,rider,unreal&perline=8" />
 </p>
 
 ---
@@ -39,29 +41,15 @@
   <summary><b>2024</b></summary>
 
   - **1학기**
-    - 엔진 개인프로젝트 **우수작** 선정
-    - 하계 게임잼 **5등상**
+    - 1학년 1학기 엔진 개인프로젝트 **우수작 선정**
+    - 1학년 하계 게임잼 **5등상 수상**
     - 개인 프로젝트 3개 제작
   - **2학기**
-    - 교내 수학게임 공모전 **장려상**
-    - 엔진 팀프로젝트 **7등**
-    - 전공동아리 프로젝트 **우수상(최종 2등)**
-    - 동계 게임잼 참가
+    - 교내 수학게임 공모전 **장려상 수상**
+    - 1학년 2학기 엔진 팀프로젝트 **7등**
+    - 전공동아리 프로젝트 **우수상 수상(최종 2등)**
+    - 1학년 동계 게임잼 참가
 </details>
-
----
-
-## 📌 Pinned Projects
-<p align="center">
-  <a href="https://github.com/SUSOT?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SUSOT&repo=REPO_NAME_1&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&icon_color=8A2BE2&hide_border=true" />
-  </a>
-  <a href="https://github.com/SUSOT?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SUSOT&repo=REPO_NAME_2&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&icon_color=8A2BE2&hide_border=true" />
-  </a>
-</p>
-
-> 위 `REPO_NAME_1/2`만 네가 대표로 보여줄 레포 이름으로 바꾸면 “카드 섹션”이 완성돼요.
 
 ---
 
@@ -71,12 +59,16 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SUSOT&show_icons=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&icon_color=8A2BE2&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUSOT&layout=donut&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SUSOT&show_icons=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&icon_color=8A2BE2&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUSOT&layout=donut&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SUSOT&bg_color=0D1117&color=00E5FF&line=8A2BE2&point=00E5FF&area=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SUSOT&theme=juicyfresh&column=8" />
 </p>
 
 ---
@@ -89,8 +81,11 @@
   <img src="http://mazandi.herokuapp.com/api?handle=ichanmin&theme=dark" />
 </p>
 
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00E5FF&height=2&section=footer" />
+</p>
+
+<p align="center">
+  <b>Thank You</b><br/>
+  <sub>SUSOT</sub>
 </p>
