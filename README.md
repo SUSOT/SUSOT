@@ -1,68 +1,96 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=안녕하세요%20이찬민입니다&fontSize=70&fontColor=FFFFFF&)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00E5FF&height=240&section=header&text=안녕하세요%20이찬민입니다&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" />
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=600&color=00E5FF&center=true&vCenter=true&width=700&lines=Unity+Client+Developer;C%23+%2F+Game+Dev+Student;Problem+Solving+%26+Projects" />
+</p>
 
-# 저를 소개합니다<br>
-> -게임 개발자를 꿈꾸는 학생입니다<br>
--C#을 열심히 공부하고 있습니다<br>
--SUSOT이라는 이름은 제 유튜브 채널 이름입니다<br>
+<p align="center">
+  <a href="https://susot.tistory.com/">
+    <img src="https://img.shields.io/badge/Blog(Tistory)-0D1117?style=for-the-badge&logo=tistory&logoColor=F24607" />
+  </a>
+  <a href="https://github.com/SUSOT">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  </a>
+  <a href="https://solved.ac/ichanmin">
+    <img src="https://img.shields.io/badge/Solved.ac-0D1117?style=for-the-badge&logo=leetcode&logoColor=00E5FF" />
+  </a>
+</p>
 
-# :film_frames:티스토리<br>
-<div align="center">
-<a href="https://susot.tistory.com/"><img src="https://img.shields.io/badge/Tistory-F24607?style=for-the-badge&logo=tistory&logoColor=white"></a><br>
- Tistroy를 누르면 링크가 열려요
-</div>
+---
 
-# :books:공부중인 언어<br>
-<div align="center">
- 
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+## 👋 About
+- 게임 개발자를 꿈꾸는 학생입니다.
+- Unity(C#) 중심으로 프로젝트를 만들고, 알고리즘/CS도 같이 챙기고 있어요.
+- **SUSOT**은 제 유튜브 채널/활동명입니다.
 
-</div>
+---
 
-# :tools:공부중인 툴<br>
-<div align="center">
- 
-<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"><br>
-<img src="https://img.shields.io/badge/Rider-E63737?style=for-the-badge&logo=rider&logoColor=white">
-<img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white">
+## 🧩 Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,cs,cpp,js,html,css,nodejs,git,github,vscode,visualstudio,rider,unreal&perline=7" />
+</p>
 
-</div>
+---
 
-# :trophy:경력:trophy:
-### 2024년<br>
-1학기 
-#### :tada:1학년 1학기 엔진 개인프로젝트 우수작 선정<br>
-#### :medal:1학년 하계 게임잼 5등상 수상<br>
-#### :video_game:개인 프로젝트 3개 제작<br><br><br>
+## 🏆 Awards & Activities
+<details>
+  <summary><b>2024</b></summary>
 
-2학기 
-#### :tada:교내 수학게임 공모전 장려상 수상<br>
-#### :military_medal:1학년 2학기 엔진 팀프로젝트 7등<br>
-#### :trophy:전공동아리 프로젝트 우수상 수상(최종 2등)<br>
-#### :video_game:1학년 동계 게임잼 참가<br>
+  - **1학기**
+    - 엔진 개인프로젝트 **우수작** 선정
+    - 하계 게임잼 **5등상**
+    - 개인 프로젝트 3개 제작
+  - **2학기**
+    - 교내 수학게임 공모전 **장려상**
+    - 엔진 팀프로젝트 **7등**
+    - 전공동아리 프로젝트 **우수상(최종 2등)**
+    - 동계 게임잼 참가
+</details>
 
-# :speaking_head:깃허브 정보<br>
-<div align="center">
+---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SUSOT&theme=sunset-gradient)](https://git.io/streak-stats)<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUSOT&title_00FF00&text_7CFC00&show_icons=true&bg_color=DEG,C9FFBF,FFAFBD&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SUSOT&layout=donut&bg_color=DEG,CC95C0,DBD4B4,7AA1D2&count_private=true)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=SUSOT&theme=juicyfresh&column=8)](https://github.com/SUSOT&count_private=true)<br>
-![](./profile-3d-contrib/profile-gitblock.svg)
+## 📌 Pinned Projects
+<p align="center">
+  <a href="https://github.com/SUSOT?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SUSOT&repo=REPO_NAME_1&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&icon_color=8A2BE2&hide_border=true" />
+  </a>
+  <a href="https://github.com/SUSOT?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SUSOT&repo=REPO_NAME_2&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&icon_color=8A2BE2&hide_border=true" />
+  </a>
+</p>
 
-![SUSOT github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=SUSOT)
+> 위 `REPO_NAME_1/2`만 네가 대표로 보여줄 레포 이름으로 바꾸면 “카드 섹션”이 완성돼요.
 
-![SUSOT github-trophies](https://stats.dooboo.io/api/github-trophies?login=SUSOT)<br>
+---
 
-</div>
+## 📈 GitHub
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SUSOT&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
 
-# :chart_with_upwards_trend:백준 정보<br>
-<div align="center">
- 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ichanmin)](https://solved.ac/ichanmin)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=ichanmin&theme=dark)<br><br><br>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SUSOT&show_icons=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&icon_color=8A2BE2&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUSOT&layout=donut&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SUSOT&bg_color=0D1117&color=00E5FF&line=8A2BE2&point=00E5FF&area=true&hide_border=true" />
+</p>
+
+---
+
+## 🧠 Algorithm (BOJ)
+<p align="center">
+  <a href="https://solved.ac/ichanmin">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ichanmin" />
+  </a>
+  <img src="http://mazandi.herokuapp.com/api?handle=ichanmin&theme=dark" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00E5FF&height=2&section=footer" />
+</p>
