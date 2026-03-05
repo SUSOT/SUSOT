@@ -1,45 +1,62 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=안녕하세요%20이찬민입니다&fontSize=60&fontColor=ffffff&animation=fadeIn)
+<!-- HERO -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,50:1b2a4a,100:00c2ff&height=260&section=header&text=안녕하세요%20이찬민입니다&fontSize=58&fontColor=ffffff&animation=fadeIn)
 
 <div align="center">
 
-### 🎮 Game Developer in Progress  
-**C# / Unity / Unreal**을 중심으로 게임을 만들고 성장 중입니다.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2600&pause=700&color=00C2FF&center=true&vCenter=true&width=520&lines=Game+Dev+Student+%F0%9F%8E%AE;C%23+%2F+Unity+%2F+Unreal;Build.+Ship.+Iterate." />
+
+<br/>
 
 <a href="https://susot.tistory.com/">
   <img src="https://img.shields.io/badge/Tistory-F24607?style=for-the-badge&logo=tistory&logoColor=white" />
 </a>
-<a href="https://www.youtube.com/@SUSOT">
+<a href="YOUR_YOUTUBE_LINK_HERE">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 <a href="mailto:YOUR_EMAIL_HERE">
-  <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## 👤 About Me
-- 🎯 게임 개발자를 꿈꾸는 학생
-- 🔥 C#을 집중적으로 학습 중
-- 🧩 **SUSOT** = 유튜브 채널명
+## 👤 About
+- 🎯 게임 개발자를 꿈꾸는 학생  
+- 🔥 주력: **C#**, Unity / Unreal  
+- 📺 SUSOT = 유튜브 채널명
 
 ---
 
-## 📚 Tech Stack
+## 🧩 Tech
 <div align="center">
 
-**Languages**  
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=cs,cpp,unity,unreal,git,github,visualstudio,rider&perline=8" />
 
-**Engines / Tools**  
-<img src="https://img.shields.io/badge/Unity-111111?style=for-the-badge&logo=unity&logoColor=white" />
-<img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
-<img src="https://img.shields.io/badge/Rider-E63737?style=for-the-badge&logo=rider&logoColor=white" />
+</div>
 
+---
+
+## 🧠 Signature (내 프로필을 “고급”으로 만드는 메인 카드)
+<div align="center">
+  <img src="./github-metrics.svg" alt="metrics" width="100%"/>
+</div>
+
+---
+
+## 🟩 Contribution Snake
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dist/github-contribution-grid-snake-dark.svg">
+    <img alt="snake" src="./dist/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+## 🌱 3D Contributions
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3d contrib" width="100%"/>
 </div>
 
 ---
@@ -47,15 +64,15 @@
 ## 🏆 Achievements
 | Year | Term | Highlights |
 |---|---|---|
-| 2024 | 1학기 | 🎉 1학년 1학기 엔진 개인프로젝트 우수작 선정<br>🏅 1학년 하계 게임잼 5등상 수상<br>🎮 개인 프로젝트 3개 제작 |
-| 2024 | 2학기 | 🎉 교내 수학게임 공모전 장려상 수상<br>🎖️ 1학년 2학기 엔진 팀프로젝트 7등<br>🏆 전공동아리 프로젝트 우수상 수상(최종 2등)<br>🎮 1학년 동계 게임잼 참가 |
-| 2025 | 1학기 | 🥉 만들래 10분 게임 콘테스트 방치편 최종 3등(장려상) |
+| 2024 | 1학기 | 🎉 1학년 1학기 엔진 개인프로젝트 우수작<br>🏅 하계 게임잼 5등상<br>🎮 개인 프로젝트 3개 |
+| 2024 | 2학기 | 🎉 교내 수학게임 공모전 장려상<br>🎖️ 2학기 엔진 팀프로젝트 7등<br>🏆 전공동아리 프로젝트 우수상(최종 2등)<br>🎮 동계 게임잼 참가 |
+| 2025 | 1학기 | 🥉 만들래 10분 게임 콘테스트 방치편 최종 3등 |
 | 2025 | 2학기 | (추가 예정) |
 
 ---
 
 ## 🚀 Featured Projects
-> 여기에 “대표작 3~6개”만 넣으면 README 퀄리티가 확 올라가요.
+> 여긴 “대표작 3~6개”만. (여기서 진짜 고급 느낌 확 남)
 
 - 🎮 **Project A** — 한 줄 설명 (Unity / C#)  
   - Repo: https://github.com/SUSOT/REPO_NAME
@@ -67,41 +84,24 @@
 ---
 
 <details>
-<summary><b>📊 GitHub Stats (펼치기)</b></summary>
+<summary><b>📊 Stats</b></summary>
 <br/>
-
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SUSOT&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-
-<img src="https://github-readme-stats.vercel.app/api?username=SUSOT&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUSOT&layout=donut&theme=github_dark&hide_border=true&count_private=true" height="165" />
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SUSOT&theme=onedark&no-frame=true&column=6)](https://github.com/SUSOT)
+<img src="https://streak-stats.demolab.com?user=SUSOT&theme=github-dark-blue&hide_border=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=SUSOT&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUSOT&layout=donut&theme=github_dark&hide_border=true&count_private=true" height="170" />
 
 </div>
-
 </details>
 
----
-
 <details>
-<summary><b>📈 Baekjoon (펼치기)</b></summary>
+<summary><b>📈 Baekjoon</b></summary>
 <br/>
-
 <div align="center">
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ichanmin)](https://solved.ac/ichanmin)  
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ichanmin" />
 <img src="http://mazandi.herokuapp.com/api?handle=ichanmin&theme=dark" />
 
 </div>
-
 </details>
-
----
-
-<div align="center">
-
-✨ 꾸준히 만들고, 기록하고, 성장합니다. ✨
-
-</div>
