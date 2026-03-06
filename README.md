@@ -58,22 +58,14 @@
   <img src="https://streak-stats.demolab.com?user=SUSOT&theme=github-dark&hide_border=true&background=0D1117" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SUSOT&show_icons=true&bg_color=0D1117&title_color=CDB8A6&text_color=C9D1D9&icon_color=A67C52&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUSOT&layout=donut&bg_color=0D1117&title_color=CDB8A6&text_color=C9D1D9&hide_border=true&count_private=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SUSOT&bg_color=0D1117&color=CDB8A6&line=A67C52&point=CDB8A6&area=true&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SUSOT&theme=onedark&column=8&no-frame=true" />
-</p>
-
 ---
 
-## 🌿 3D Contribution (Rainbow / Dark)
+## 🌿 3D Contribution
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
