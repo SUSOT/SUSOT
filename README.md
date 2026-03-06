@@ -73,9 +73,9 @@
 
 ---
 
-## 🌿 3D Contribution (Dark)
+## 🌿 3D Contribution (Rainbow / Dark)
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
 
 ---
