@@ -58,11 +58,6 @@
   <img src="https://streak-stats.demolab.com?user=SUSOT&theme=github-dark&hide_border=true&background=0D1117" />
 </p>
 
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SUSOT&bg_color=0D1117&color=CDB8A6&line=A67C52&point=CDB8A6&area=true&hide_border=true" />
-</p>
-
 ---
 
 ## 🌿 3D Contribution
